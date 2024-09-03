@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Qzm-QAQ
-- 👀 I’m interested in ソフトウェアとプログラム
-- 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on PYTHON
+- 👀 I’m interested in ????
 - 📫 How to reach me ❓
 
 <!---
